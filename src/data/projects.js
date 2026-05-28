@@ -13,8 +13,8 @@ const projects = [
     description:
       "This very site — a cinematic monochrome portfolio with an interactive canvas hero, cursor-reveal effect, 3D flip card, skills marquee, and background music player.",
     tags: ["React", "Vite", "Canvas", "CSS"],
-    live: "https://tah10mid.github.io/portfolio/",
-    code: "https://github.com/tah10mid/portfolio",
+    live: "https://portfolio-new-mocha-xi.vercel.app",
+    code: "https://github.com/tah10mid/portfolio-new",
     image: projPortfolio,
   },
   {
